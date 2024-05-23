@@ -1,0 +1,1 @@
+console.log("This is info from About page.")
